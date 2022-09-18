@@ -3,10 +3,10 @@ h1 {
     font-weight:bold;
     color:khaki;
     text-align:center;
-    background: <img src="pattern.jpeg">
+    background-image: url("pattern.jpeg")
 }
 
-h3 {
+h2 {
     font-family:Helvetica;
     font-weight:bold;
     color:white;
