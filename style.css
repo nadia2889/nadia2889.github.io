@@ -3,6 +3,7 @@ h1 {
     font-weight:bold;
     color:khaki;
     text-align:center;
+    font-size:100px;
     background-image: url("pattern.jpeg")
 }
 
